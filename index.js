@@ -8,7 +8,7 @@ import { YellowBox } from 'react-native';
 // Create a component
 const App = () => (
   <View>
-    <Header headerText={'hey'} />
+    <Header headerText={'heyfsdf'} />
     <AlbumList />
   </View>
 );
