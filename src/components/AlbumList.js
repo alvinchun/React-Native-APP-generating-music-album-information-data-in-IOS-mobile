@@ -22,7 +22,7 @@ class AlbumList extends Component {
   //no id shown in this case, so we use just album.title
 
   render() {
-    // console.log(this.state);
+    console.log(this.state);
     return <View>{this.renderAlbums()}</View>;
   }
 }
